@@ -46,7 +46,7 @@ Here are some of my noteworthy projects:
 
 ## 📈 GitHub Stats
 
-![GeePT's GitHub stats](https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=radical)
+![GeePT's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryakCreator&show_icons=true&theme=radical)
 
 ---
 
