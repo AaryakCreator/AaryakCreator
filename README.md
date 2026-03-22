@@ -46,15 +46,15 @@ Here are some of my noteworthy projects:
 
 ## 📈 GitHub Stats
 
-![GeePT's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryakCreator&show_icons=true&theme=radical)
+![Aaryak's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryakCreator&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/<your-linkedin>"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin"></a>
-<a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail"></a>
-<a href="https://www.instagram.com/<your-instagram>"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram"></a>
+<a href="www.linkedin.com/in/aaryak101111"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin"></a>
+<a href="mailto:imhacker1000101@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail"></a>
+<a href="https://www.instagram.com/procreator_01"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram"></a>
 
 ---
 
