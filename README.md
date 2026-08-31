@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm Aaryak
 
 ## 👨‍💻 About Me
-I’m a passionate **Computer Science student** and developer exploring the world of **AI, Machine Learning, and Software Development**.  
+I’m a passionate **Computer Science student** and aspiring developer exploring the world of **AI, Machine Learning, and Software Development**.  
 I love building **intelligent systems**, solving problems, and learning new technologies every day.
 
 - 🎓 Currently studying Computer Science and Engineering  
-- 💡 Interested in AI, Reinforcement Learning, CV, and system design  
+- 💡 Interested in AI, Reinforcement Learning, Computer Vision and system design  
 - 🚀 Always eager to take on new challenges and collaborate on exciting projects  
 - 🤝 Let’s connect and build cool things together!
 
@@ -32,13 +32,13 @@ I love building **intelligent systems**, solving problems, and learning new tech
 Here are some of my noteworthy projects:
 
 ### 🚀 AI & ML
-- **Jeevan** – AI-based hospital calling agent that schedules appointments & sends reminders  
-- **Movie Sentiment Analysis** – NLP project analyzing movie reviews  
-- **AI Skill & Career Advisor** – Intelligent system for personalized career guidance
+- **Jeevan** - AI-based hospital calling agent that schedules appointments & sends reminders
+- **AI Skill & Career Advisor** - Intelligent system for personalized career guidance
 
 ### 💻 Other Projects
 - **DAS_with_Python** – Data structures and algorithms assignments  
-- **Smart Trash Segregation System** *(in progress)* – Computer vision & reinforcement learning-based waste sorting
+- **After Effects Frame Splitter** - Splits a video into framess for upscaling
+- Various other projects related to game development
 
 *Feel free to explore my repositories and star ⭐ your favorites!*
 
