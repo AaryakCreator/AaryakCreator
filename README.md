@@ -36,7 +36,7 @@ Here are some of my noteworthy projects:
 - **AI Skill & Career Advisor** - Intelligent system for personalized career guidance
 
 ### 💻 Other Projects
-- **DAS_with_Python** – Data structures and algorithms assignments  
+- **Time Travel [WIP]** - Restores functionality of smartwatches locked due to discontinued software  
 - **After Effects Frame Splitter** - Splits a video into framess for upscaling
 - Various other projects related to game development
 
