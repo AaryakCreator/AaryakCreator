@@ -1,19 +1,19 @@
 # 👋 Hi there, I'm Aaryak
 
-## 👨‍💻 About Me
+##  About Me
 I’m a passionate **Computer Science student** and aspiring developer exploring the world of **AI, Machine Learning, and Software Development**.  
 I love building **intelligent systems**, solving problems, and learning new technologies every day.
 
 - 🎓 Currently studying Computer Science and Engineering  
-- 💡 Interested in AI, Reinforcement Learning, Computer Vision and system design  
-- 🚀 Always eager to take on new challenges and collaborate on exciting projects  
+- 💡 Interested in AI, Machine Learning, Robotics and System Design  
+- Always eager to take on new challenges and collaborate on exciting projects  
 - 🤝 Let’s connect and build cool things together!
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🧠 Languages
+### Languages
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
@@ -27,30 +27,27 @@ I love building **intelligent systems**, solving problems, and learning new tech
 
 ---
 
-## 🔭 Projects
+## Projects
 
 Here are some of my noteworthy projects:
 
-### 🚀 AI & ML
+### AI & ML
 - **Jeevan** - AI-based hospital calling agent that schedules appointments & sends reminders
 - **AI Skill & Career Advisor** - Intelligent system for personalized career guidance
 
-### 💻 Other Projects
-- **Time Travel [WIP]** - Restores functionality of smartwatches locked due to discontinued software  
+### Reverse Engineering
+- **Time Travel [WIP]** - Restores functionality of smartwatches locked due to discontinued software
+  
+### Other Projects
 - **After Effects Frame Splitter** - Splits a video into framess for upscaling
 - Various other projects related to game development
 
 *Feel free to explore my repositories and star ⭐ your favorites!*
 
----
-
-## 📈 GitHub Stats
-
-![Aaryak's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryakCreator&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <a href="https://www.linkedin.com/in/aaryak101111"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin"></a>
 <a href="mailto:imhacker1000101@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail"></a>
@@ -58,4 +55,4 @@ Here are some of my noteworthy projects:
 
 ---
 
-> “Code, learn, and build — every day.” 🚀
+> “Code, learn, and build — every day.” 
