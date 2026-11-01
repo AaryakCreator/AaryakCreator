@@ -4,10 +4,10 @@
 I’m a passionate **Computer Science student** and aspiring developer exploring the world of **AI, Machine Learning, and Software Development**.  
 I love building **intelligent systems**, solving problems, and learning new technologies every day.
 
-- 🎓 Currently studying Computer Science and Engineering  
-- 💡 Interested in AI, Machine Learning, Robotics and System Design  
+- Currently studying Computer Science and Engineering  
+- Interested in AI, Machine Learning, Robotics and System Design  
 - Always eager to take on new challenges and collaborate on exciting projects  
-- 🤝 Let’s connect and build cool things together!
+  Let’s connect and build cool things together!
 
 ---
 
@@ -18,7 +18,7 @@ I love building **intelligent systems**, solving problems, and learning new tech
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
@@ -40,7 +40,7 @@ Here are some of my noteworthy projects:
   
 ### Other Projects
 - **After Effects Frame Splitter** - Splits a video into framess for upscaling
-- Various other projects related to game development
+- Various other browser games
 
 *Feel free to explore my repositories and star ⭐ your favorites!*
 
